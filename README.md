@@ -36,8 +36,8 @@ pip install pandas tqdm tabulate
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/file-hunt.git
-cd file-hunt
+git clone https://github.com/lucascmreis/file-hunter.git
+cd file-hunter
 ```
 
 ### 2. Run the script
@@ -45,7 +45,7 @@ cd file-hunt
 After cloning the repository, navigate to the directory where the script is located. Run the script with the following command:
 
 ```bash
-python file_hunt.py
+python file_hunter.py
 ```
 
 ### 3. Provide Inputs
