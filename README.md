@@ -1,5 +1,3 @@
----
-
 # File-Hunt
 
 **File-Hunt** is a Python script that helps you compare the files in a **source directory** with those listed in a **target CSV file**. It identifies files that exist in the source directory but do not appear in the target file list, even across multiple subfolders.
